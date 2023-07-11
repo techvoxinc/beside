@@ -1,0 +1,24 @@
+{
+  "name": "beside",
+  "homepage": "https://github.com/forsigner/beside",
+  "authors": [
+    "forsigner <forsigner@gmail.com>"
+  ],
+  "description": "Beside me",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "5bfaa78b39",
+  "_resolution": {
+    "type": "commit",
+    "commit": "5bfaa78b3957befb7a0cc1ad6423fd8b5aec4439"
+  },
+  "_source": "https://github.com/forsigner/beside.git",
+  "_target": "5bfaa78b3957befb7a0cc1ad6423fd8b5aec4439",
+  "_originalSource": "forsigner/beside"
+}

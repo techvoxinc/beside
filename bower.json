@@ -1,0 +1,17 @@
+{
+  "name": "beside",
+  "version": "1.0.7",
+  "homepage": "https://github.com/forsigner/beside",
+  "authors": [
+    "forsigner <forsigner@gmail.com>"
+  ],
+  "description": "Beside me",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
